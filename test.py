@@ -1,1 +1,1 @@
-print("buy world ")
+print("bye world ")
