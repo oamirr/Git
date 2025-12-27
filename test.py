@@ -1,2 +1,2 @@
-print("bye world ")
+print("bye Freind ")
 
